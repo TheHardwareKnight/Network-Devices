@@ -49,7 +49,7 @@ Scans run in **sweeps** — each sweep sends a fresh ARP broadcast and only prin
 **1. Clone the repository:**
 
 ```bash
-git clone https://github.com/TheHardwareKnight/Network-Devices.git
+git clone https://github.com/TheHardwareKnight/Network-Devices
 cd Network-Devices
 ```
 
